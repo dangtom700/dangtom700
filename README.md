@@ -36,4 +36,4 @@ at the electronics↔control boundary and building toward PLC / industrial autom
 
 ---
 
-📫 Contact: see my resume for email · [LinkedIn](www.linkedin.com/in/son-tung-dang-206806183) · open to co-op / internship roles in test & verification, controls, and industrial automation.
+📫 [LinkedIn](https://www.linkedin.com/in/son-tung-dang-206806183) · open to co-op / internship roles in test & verification, controls, and industrial automation.
